@@ -1,0 +1,21 @@
+.App {
+  text-align: center;
+  min-height: 100vh;
+}
+
+.App-header {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+}
+
+canvas {
+  border: 1px solid black;
+}
+
+input[type="range"] {
+  width: 100px;
+  margin: 5px;
+}
