@@ -153,7 +153,7 @@ const DuelGame = () => {
             />
             <div>
                 <span>
-                    Счет - Hero 1: <strong style={{ color: hero1.color }}>{score.hero1}</strong>, Hero 2:&nbsp;
+                    Счет - Герой 1: <strong style={{ color: hero1.color }}>{score.hero1}</strong>, Герой 2:&nbsp;
                     <strong style={{ color: hero2.color }}>{score.hero2}</strong>
                 </span>
             </div>
